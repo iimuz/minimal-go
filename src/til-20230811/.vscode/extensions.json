@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    // === editor
+    "EditorConfig.EditorConfig", // .editorconfigの有効化
+    // === go
+    "golang.go",
+    // === markdown
+    "DavidAnson.vscode-markdownlint", // linter
+    "lpubsppop01.vscode-auto-timestamp", // frontmatterの時刻の自動更新
+    "esbenp.prettier-vscode" // formatter
+  ]
+}
