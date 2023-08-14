@@ -1,3 +1,3 @@
-module minimal-golang
+module minimalgo
 
 go 1.21.0
